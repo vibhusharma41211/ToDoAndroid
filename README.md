@@ -12,6 +12,7 @@ This is a simple to-do list application built using HTML, CSS, and JavaScript. I
 ## Getting Started
 
 To use the application, simply install the '.apk' file on your phone. You can add tasks by typing them into the input field and clicking the "Add" button. To remove a task, click the "Remove" button next to it. To clear all tasks, click the "Clear All" button at the bottom.
+
 *Note: Toast has been added and is currently not visible due to free branding of the apk converter website.*
 
 ## Contributing
